@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/res/merged/androidTest/debug/drawable/bdp_update_bg_dialog_title.xml",
+        "source": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/bundles/debug/res/drawable/bdp_update_bg_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/res/merged/androidTest/debug/drawable/bdp_update_bg_dialog_content.xml",
+        "source": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/bundles/debug/res/drawable/bdp_update_bg_dialog_content.xml"
+    },
+    {
+        "merged": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/res/merged/androidTest/debug/drawable/bdp_update_bg_dialog_btn.xml",
+        "source": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/bundles/debug/res/drawable/bdp_update_bg_dialog_btn.xml"
+    },
+    {
+        "merged": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/res/merged/androidTest/debug/drawable/bdp_update_progress_download.xml",
+        "source": "/Users/xuewenliao/Desktop/AndroidProject/SmartHome/bDIntegrationSDK_LibProject/build/intermediates/bundles/debug/res/drawable/bdp_update_progress_download.xml"
+    }
+]
